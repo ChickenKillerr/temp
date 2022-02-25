@@ -21,7 +21,7 @@
 <body>
 	<center>
 		<div class="Answer">
-			<p>Hello, <%=Request("nm")%> ! </p>
+			<p>Hello, <%=Request("name")%> ! </p>
 			<img class="smilePNG.png" width="20%" src="smile.png">
 			<p>You are the best</p>
 		</div>
